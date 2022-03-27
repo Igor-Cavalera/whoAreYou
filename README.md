@@ -3,7 +3,9 @@
 ## Meta - Aplicação Desktop SPA 
 
 <p> • Lembrete para estilizar </p>
-<p> • Adicionar uma aba </p>
+<p> • Adicionar Sidebar </p>
+<p> • Aba com Resumo </p>
+<p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir</p>
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Alterar inputs Altura e Peso para number </p>
