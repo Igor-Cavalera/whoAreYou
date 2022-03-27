@@ -1,0 +1,166 @@
+body {
+  max-width: 100vw;
+  background-color: #202b38;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0 0 20px 11px;
+  color: #ffffff;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 60px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+input, select, textarea {
+  margin-bottom: 20px;
+  padding: 8px;
+  background: #161f27;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  color: #dbdbdb;
+  border-radius: 5px;
+}
+
+label {
+  color: #ffffff;
+}
+
+.anotacoes_textArea {
+  all: unset;
+  resize: none;
+  border-radius: 0 0 5px 5px;
+  color: #ffffff;
+  padding: 10px;
+  background: #161f27;
+  width: 600px;
+  height: 150px;
+  margin-bottom: 15px;
+}
+
+.name {
+  all: unset;
+  padding: 10px;
+  border-radius:  5px;
+  background: #161f27;
+  margin: 0 0 15px 0;
+  width: 580px;
+  color: #ffffff;
+}
+
+.cpf, .nascimento { 
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background: #161f27;
+  width: 42%;
+  margin: 0 0 15px 0;
+  color: #ffffff;
+}
+
+.nascimento {
+  margin-left: 56px;
+}
+
+.anotacoes, .descricao, .familiares {
+  font-size: 20px;
+  margin-bottom: 0px;
+  padding-left: 15px;
+  border-radius: 5px 5px 0 0;
+  background-color: #0c151c;
+}
+
+.descricao {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #0c151c;
+  padding: 5px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.genero, .altura {
+  all: unset;
+  padding: 10px;
+  background: #161f27;
+  border-radius: 5px;
+  width: 42%;
+  margin: 0 0 15px 0;
+  color: #ffffff;
+}
+
+.altura {
+  margin-left: 56px;
+}
+
+.peso {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background: #161f27;
+  width: 150px;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+.familiares {
+  width: 100%; 
+  background-color: #0c151c;
+  padding: 5px;
+  padding-left: 15px;
+  
+}
+
+.maeNome , .paiNome {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  margin-bottom: 15px;
+  width: 100%;
+  color: #ffffff;
+}
+
+.maeNome {
+  all: unset;
+  background-color: #161f27;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 0 0 5px 5px;
+  color: #ffffff;
+}
+
+.anotacoes {
+  all: unset;
+  width: 100%;    
+  background-color: #0c151c;
+  border-radius: 5px 5px 0 0 ;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 15px;
+}
+
+.butaoSalvar {
+  all: unset;
+  text-align: center;
+  width: 100%;
+  margin: 0 0 15px 0;
+  font-family: 'Courier New', Courier, monospace;
+  background: #0c151c;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.butaoSalvar:hover {
+  background-color: #040a0f;
+}
