@@ -1,14 +1,14 @@
 import { useState } from 'react';
-import Nomeprincipal from './form/NomePrincipal';
-import Cpf from './form/Cpf';
-import Nasc from './form/Nasc';
-import Genero from './form/Genero';
-import Altura from './form/Altura';
-import Peso from './form/Peso';
-import NomeM from './form/NomeM';
-import NomeP from './form/NomeP';
-import AreaTexto from './form/AreaTexto';
-import BotaoSalvar from './form/BotaoSalvar';
+import Nomeprincipal from '../form/NomePrincipal';
+import Cpf from '../form/Cpf';
+import Nasc from '../form/Nasc';
+import Genero from '../form/Genero';
+import Altura from '../form/Altura';
+import Peso from '../form/Peso';
+import NomeM from '../form/NomeM';
+import NomeP from '../form/NomeP';
+import AreaTexto from '../form/AreaTexto';
+import BotaoSalvar from '../form/BotaoSalvar';
 
 function Formulario() {
     const [formValues, setFormValues] = useState({});
