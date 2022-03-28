@@ -4,6 +4,8 @@
 
 <p> • Lembrete para ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
+<p> • Ajustar ResetCSS</p>
+<p> • Organizar arquivos CSS na pasta styles
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Alterar inputs Altura e Peso para number </p>
@@ -22,5 +24,8 @@
 
 ![image](https://user-images.githubusercontent.com/66530386/160307778-449bafab-f555-4fdb-acc4-c9a39a005f54.png)
 
+## Rabisco Home 
+<p> Resumo </p>
 
+![image](https://user-images.githubusercontent.com/66530386/160495287-b1ed68fc-2799-4afe-8409-2d5ced267fca.png)
 
