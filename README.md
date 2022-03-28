@@ -2,7 +2,9 @@
 
 ## Meta - Aplicação Desktop 
 
-#### Lembretes 
+## ------ LEMBRETES -------
+
+## CSS
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
