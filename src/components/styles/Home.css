@@ -1,0 +1,27 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    height: 90px;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+/* AJUSTAR COM DISPLAY FLEX */ 
+
+.fotoTest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 475px;
+    background: #dbdbdb;
+    width: 200px;
+    height: 200px;
+  }
+
+.valoresResumo {
+    color: #dbdbdb;
+    margin: 15px 0 0 475px;
+}
