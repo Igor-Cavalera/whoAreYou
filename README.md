@@ -1,6 +1,6 @@
 # Aplicação com formulário - React
 
-## Meta - Aplicação Desktop SPA 
+## Meta - Aplicação Desktop 
 
 <p> • Lembrete para ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
@@ -17,6 +17,10 @@
 ## Versão Atual
 
 ![image](https://user-images.githubusercontent.com/66530386/160307484-d0eaf50b-1a9b-4f38-9b1f-6968ff9988d9.png)
+
+## ----------------------------- 
+
+![image](https://user-images.githubusercontent.com/66530386/160307778-449bafab-f555-4fdb-acc4-c9a39a005f54.png)
 
 
 
