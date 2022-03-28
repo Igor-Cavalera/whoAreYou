@@ -2,12 +2,11 @@
 
 ## Meta - Aplicação Desktop SPA 
 
-<p> • Lembrete para estilizar </p>
-<p> • Adicionar Sidebar </p>
-<p> • Aba com Resumo </p>
+<p> • Lembrete para ajustar largura da aplicação </p>
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Alterar inputs Altura e Peso para number </p>
+<p> • Aba com Resumo </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
 
 ## Versão Padrão 
@@ -16,6 +15,7 @@
 
 ## Versão Atual
 
-![image](https://user-images.githubusercontent.com/66530386/160067590-37025ec1-95b2-4c12-84f0-ec7ff17e0521.png)
+![image](https://user-images.githubusercontent.com/66530386/160307484-d0eaf50b-1a9b-4f38-9b1f-6968ff9988d9.png)
+
 
 
