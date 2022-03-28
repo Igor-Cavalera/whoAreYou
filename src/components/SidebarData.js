@@ -1,7 +1,7 @@
 import React from "react";
-import * as FaIcons from 'react-icons/fa';
 import * as AiIcons from 'react-icons/ai';
 import * as IoIcons from 'react-icons/io';
+import * as BiIcons from 'react-icons/bi';
 
 export const SidebarData = [
     {
@@ -12,14 +12,14 @@ export const SidebarData = [
     },
     {
         title: 'Formulário',
-        path: '/Formulario',
+        path: '/Forms',
         icon: <IoIcons.IoIosPaper />,
         cName: 'nav-text'
     },
     {
         title: 'Salvos',
         path: '/Salvos',
-        icon: <FaIcons.FaCartPlus/>,
+        icon: <BiIcons.BiSave/>,
         cName: 'nav-text'
     }
 ]

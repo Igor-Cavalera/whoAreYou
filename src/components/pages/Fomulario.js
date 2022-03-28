@@ -55,7 +55,6 @@ function Formulario() {
 
         return (
         <form onSubmit={ handleSubmit }>
-            <h1> -------- Who are you? -------- </h1>
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
             <Cpf onChange={ handleInputChange } />
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
