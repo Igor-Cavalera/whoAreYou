@@ -8,6 +8,7 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
+<p> • Estilizar os inputs de Altura, Peso e Genero</p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
