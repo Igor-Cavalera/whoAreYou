@@ -8,12 +8,12 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
+<p> • Estilizar os inputs de Altura, Peso e Genero</p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
-<p> • Alterar inputs Altura e Peso para number </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
 
 ## Versão Padrão 
