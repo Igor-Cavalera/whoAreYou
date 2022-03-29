@@ -13,7 +13,6 @@
 ## Configuração
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
-<p> • Alterar inputs Altura e Peso para number </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
 
 ## Versão Padrão 
