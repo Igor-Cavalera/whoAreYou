@@ -95,6 +95,10 @@ label {
   color: #ffffff;
 }
 
+.genero {
+  overflow: hidden;
+}
+
 .altura {
   margin-left: 56px;
 }
