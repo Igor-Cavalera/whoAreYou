@@ -1,6 +1,6 @@
 function Peso () {
     return (
-        <input type="text" className="peso" placeholder="Peso" />
+        <input type="number" className="peso" placeholder="Peso" step={0.1} maxLength={7} />
     )
 }
 

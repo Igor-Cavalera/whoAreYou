@@ -1,6 +1,6 @@
 function Altura () {
     return (
-        <input type="text" className="altura" placeholder="Altura" />
+        <input type="number" className="altura" step={0.1} placeholder="Altura"  />
     )
 }
 
