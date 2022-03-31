@@ -15,7 +15,6 @@
 
 ## Configuração
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
-<p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
 
