@@ -9,6 +9,7 @@ import NomeM from '../form/NomeM';
 import NomeP from '../form/NomeP';
 import AreaTexto from '../form/AreaTexto';
 import BotaoSalvar from '../form/BotaoSalvar';
+import Olhos from '../form/Olhos';
 
 function Formulario() {
 
@@ -58,6 +59,11 @@ function Formulario() {
 
         return (
         <form onSubmit={ handleSubmit }>
+            
+            <div className="abas"> 
+                <button className="aba-teste">Teste</button>
+            </div> 
+
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
             <Cpf onChange={ handleInputChange } />
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
@@ -67,6 +73,7 @@ function Formulario() {
             <Genero onChange={ handleInputChange }/>
             <Altura onChange={ handleInputChange }/>
             <Peso onChange={ handleInputChange } />
+            <Olhos onChange={ handleInputChange }/>
 
             <label className="familiares">Familiares</label>
 
