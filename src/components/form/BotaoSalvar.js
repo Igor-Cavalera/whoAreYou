@@ -1,6 +1,6 @@
 function BotaoSalvar () {
     return (
-        <button type="submit" className="butaoSalvar">Salvar</button>
+        <button type="submit" className="butaoSalvar">SALVAR</button>
     )
 }
 
