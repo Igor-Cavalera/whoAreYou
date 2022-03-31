@@ -3,6 +3,7 @@
 ## Meta - Aplicação Desktop 
 
 ## ------ LEMBRETES -------
+<p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
 <p> • Ajustar largura da aplicação </p>
