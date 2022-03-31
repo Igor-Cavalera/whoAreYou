@@ -8,10 +8,12 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
+<p> • Colocar Anotações em outra aba </p>
 <p> • Estilizar os inputs de Altura, Peso e Genero</p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar input máscara do CPF </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
@@ -22,11 +24,7 @@
 
 ## Versão Atual
 
-![image](https://user-images.githubusercontent.com/66530386/160307484-d0eaf50b-1a9b-4f38-9b1f-6968ff9988d9.png)
-
-## ----------------------------- Ajustar sidebar
-
-![image](https://user-images.githubusercontent.com/66530386/160307778-449bafab-f555-4fdb-acc4-c9a39a005f54.png)
+![image](https://user-images.githubusercontent.com/66530386/160700724-d877e66c-e69a-46be-8508-39cf0523e11b.png)
 
 ## Rabisco Home 
 <p> Resumo </p>
