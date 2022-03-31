@@ -42,7 +42,7 @@ function Formulario() {
             inputCpf.value += '-'
         }
 
-    })   */ 
+    })    */
 
         //Máscara Data de Nascimento
         /* const inputNasc = document.querySelector('#nasc')
@@ -60,7 +60,7 @@ function Formulario() {
 
         return (
         <form onSubmit={ handleSubmit }>
-            <Abas />
+            <Abas/>
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
             <Cpf onChange={ handleInputChange } />
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>

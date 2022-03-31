@@ -1,6 +1,12 @@
+import {useState} from 'react';
+import CpfMascara from './CpfMascara';
+
 function Cpf () {
+    const [cpf, setCpf] = useState('');
     return (
-        <input type="text" className="cpf" name="cpf" placeholder="CPF" id="cpf" maxLength={14}/>
+    <>
+        <CpfMascara value={cpf} onChange={(event) => setCpf(event.target.value)}/>
+    </>
     )
 }
 
