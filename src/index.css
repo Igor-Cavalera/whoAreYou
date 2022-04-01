@@ -44,6 +44,8 @@ label {
   margin-bottom: 15px;
 }
 
+/* ------------------- ABAS --------------- */ 
+
 .abas {
   width: 100%;
   height: 42px;
@@ -51,20 +53,65 @@ label {
   border-radius: 5px 5px 0 0;
 }
 
-.aba-forms {
+.aba-dados {
   all: unset;
-  width: 100px;
-  margin: 0 10px 0 5px ;
-  padding: 10px 0 10px 10px;
+  width: 200px;
+  padding: 10px 0 10px 15px;
   border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
 }
 
-.aba-teste:hover {
+.aba-endereco {
+  all: unset;
+  width: 130px;
+  padding: 10px 0 10px 25px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.aba-notas {
+  all: unset;
+  width: 150px;
+  padding: 10px 0 10px 25px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.aba-empresas {
+  all: unset;
+  width: 210px;
+  padding: 10px 0 10px 25px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+/* --------- ABAS (Cursor: Pointer) ----------- */ 
+
+.aba-dados:hover {
   background-color: #040a0f;
   cursor: pointer;
 }
+
+.aba-endereco:hover {
+  background-color: #040a0f;
+  cursor: pointer;
+}
+
+.aba-notas:hover {
+  background-color: #040a0f;
+  cursor: pointer;
+}
+
+.aba-empresas:hover {
+  background-color: #040a0f;
+  cursor: pointer;
+}
+
+/* -------------- Inputs ---------------*/ 
 
 .name {
   all: unset;
