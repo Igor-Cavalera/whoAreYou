@@ -14,6 +14,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Configurar Abas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
