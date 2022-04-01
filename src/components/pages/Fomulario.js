@@ -31,33 +31,6 @@ function Formulario() {
         console.log('*** handleSubmit', data);
         }
 
-        /* //Máscara CPF
-        const inputCpf = document.querySelector('#cpf');
-        inputCpf.addEventListener('keypress', () => {
-        const inputlength = inputCpf.value.length 
-        
-        if (inputlength === 3 || inputlength === 7){
-            inputCpf.value += '.'
-        } else if (inputlength === 11){
-            inputCpf.value += '-'
-        }
-
-    })    */
-
-        //Máscara Data de Nascimento
-        /* const inputNasc = document.querySelector('#nasc')
-
-        inputNasc.addEventListener('keypress', () => {
-        const inputlength = inputNasc.value.length 
-        
-        if (inputlength === 2 || inputlength === 4) {
-            inputNasc.value += '/'
-        } 
-    })
-
-    */
-    
-
         return (
         <form onSubmit={ handleSubmit }>
             <Abas/>

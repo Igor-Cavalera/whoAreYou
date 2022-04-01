@@ -1,6 +1,10 @@
+import { useState } from 'react'; 
+import NascMascara from "./NascMascara";
+
 function Nasc () {
+    const [cpf, setCpf] = useState('');
     return (
-        <input type="text" className="nascimento" name="dataNascimento" maxLength={10} placeholder="Data de Nascimento"/>
+        <NascMascara value={cpf} onChange={(event) => setCpf(event.target.value)}/>
     )
 }
 

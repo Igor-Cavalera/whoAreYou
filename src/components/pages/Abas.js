@@ -1,9 +1,10 @@
 function Abas () {
     return (
         <div className="abas"> 
-            <button className="aba-teste">Exemplo1</button>
-            <button className="aba-teste">Exemplo2</button>
-            <button className="aba-teste">Exemplo3</button>
+            <button className="aba-dados">Dados Pessoais</button>
+            <button className="aba-endereco">Endereço</button>
+            <button className="aba-notas">Anotações</button>
+            <button className="aba-empresas">Empresas</button>
         </div> 
     )
 }
