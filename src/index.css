@@ -65,7 +65,7 @@ label {
 .aba-endereco {
   all: unset;
   width: 130px;
-  padding: 10px 0 10px 25px;
+  padding: 10px 0 10px 35px;
   border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
@@ -74,7 +74,7 @@ label {
 .aba-notas {
   all: unset;
   width: 150px;
-  padding: 10px 0 10px 25px;
+  padding: 10px 0 10px 45px;
   border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
@@ -82,8 +82,8 @@ label {
 
 .aba-empresas {
   all: unset;
-  width: 210px;
-  padding: 10px 0 10px 25px;
+  width: 150px;
+  padding: 10px 0 10px 54px;
   border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
