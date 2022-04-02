@@ -29,13 +29,12 @@ function Formulario() {
         const data = Object.fromEntries(formData);
 
         console.log('*** handleSubmit', data);
-        }
-
+    }
         return (
         <form onSubmit={ handleSubmit }>
             <Abas/>
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
-            <Cpf onChange={ handleInputChange } />
+            <Cpf onChange={ handleInputChange } value={formValues.Cpf || ''}/>
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
 
             <label className="descricao">Descrição </label>
