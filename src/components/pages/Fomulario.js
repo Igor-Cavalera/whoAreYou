@@ -11,6 +11,7 @@ import AreaTexto from '../form/AreaTexto';
 import BotaoSalvar from '../form/BotaoSalvar';
 import Olhos from '../form/Olhos';
 import Abas from './Abas';
+import Nacionalidade from '../form/Nacionalidade';
 
 function Formulario() {
 
@@ -36,6 +37,7 @@ function Formulario() {
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
             <Cpf onChange={ handleInputChange } value={formValues.Cpf || ''}/>
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
+            <Nacionalidade onChange={ handleInputChange }/>
 
             <label className="descricao">Descrição </label>
 

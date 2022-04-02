@@ -128,13 +128,31 @@ label {
   padding: 10px;
   border-radius: 5px;
   background: #161f27;
-  width: 40%;
   margin: 0 0 15px 0;
   color: #ffffff;
 }
 
+.nacionalidade {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background: #161f27;
+  margin: 0 0 15px 0;
+  color: #ffffff;
+}
+
+.cpf {
+  width: 25%;
+}
+
 .nascimento {
-  margin-left: 116px;
+  width: 33%;
+  margin-left: 12px;
+}
+
+.nacionalidade {
+  width: 31%;
+  margin-left: 13px;
 }
 
 .anotacoes, .descricao, .familiares {
