@@ -1,6 +1,9 @@
 function AreaTexto () {
     return (
-        <textarea name="Anotações" className="anotacoes_textArea"></textarea>
+        <textarea 
+            name="Anotações" 
+            className="anotacoes_textArea">
+        </textarea>
     )
 }
 

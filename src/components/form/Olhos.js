@@ -1,6 +1,10 @@
 function Olhos () {
     return (
-        <input type="text" className="olhos" placeholder="Cor dos olhos" />
+        <input 
+            type="text" 
+            className="olhos" 
+            placeholder="Cor dos olhos" 
+        />
     )
 }
 

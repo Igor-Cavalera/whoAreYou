@@ -5,7 +5,9 @@ function Cpf () {
     const [cpf, setCpf] = useState('');
     return (
     <>
-        <CpfMascara value={cpf} onChange={(event) => setCpf(event.target.value)}/>
+        <CpfMascara 
+            value={cpf} 
+            onChange={(event) => setCpf(event.target.value)}/>
     </>
     )
 }

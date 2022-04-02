@@ -1,6 +1,10 @@
 function NomeM () {
     return (
-        <input type="text" className="maeNome" placeholder="Nome da Mãe" />
+        <input 
+            type="text" 
+            className="maeNome" 
+            placeholder="Nome da Mãe" 
+        />
     )
 }
 

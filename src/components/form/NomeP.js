@@ -1,6 +1,10 @@
 function NomeP () {
     return (
-        <input type="text" className="paiNome" placeholder="Nome do Pai" />
+        <input 
+            type="text" 
+            className="paiNome" 
+            placeholder="Nome do Pai" 
+        />
     )
 }
 
