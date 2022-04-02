@@ -15,17 +15,23 @@
 
 ## Configuração
 <p> • Configurar Abas </p>
+<p> • Adicionar Máscara para peso </p>
+<p> • Adicionar Máscara para altura </p>
+<p> • Adicionar Input de Telefone </p>
+<p> • Adicionar Inputs para aba de Endereço </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
-<p> • Adicionar o botao de salvar </p>
+<p> • Configurar o botao de salvar </p>
 
 ## Versão Padrão 
 
 ![image](https://user-images.githubusercontent.com/66530386/159654026-eddaf007-32ff-480f-975d-b1fc0ceff7cf.png)
 
 ## Formulário - Versão Atual
-<p> • Adicionando e estilizando Abas </p>
+<p> • Ajustando Abas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/161232516-24f979e8-b569-4bc4-be81-93dad996ea66.png)
+![image](https://user-images.githubusercontent.com/66530386/161396974-5b3e456e-0fdd-488e-b91c-0736d2645b04.png)
+
+
 
 
 ## Rabisco Home 
