@@ -14,6 +14,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Configurar Abas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar input máscara da data de nascimento </p>
 <p> • Adicionar funcinalidade de salvar arquivos onde o usuário preferir </p>
@@ -23,9 +24,9 @@
 ![image](https://user-images.githubusercontent.com/66530386/159654026-eddaf007-32ff-480f-975d-b1fc0ceff7cf.png)
 
 ## Formulário - Versão Atual
-<p> Adicionado Abas </p>
+<p> • Adicionando e estilizando Abas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/161013309-fe5b147d-5cfa-4280-aa35-e477cccf8285.png)
+![image](https://user-images.githubusercontent.com/66530386/161232516-24f979e8-b569-4bc4-be81-93dad996ea66.png)
 
 
 ## Rabisco Home 
