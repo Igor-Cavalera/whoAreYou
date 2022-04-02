@@ -29,8 +29,7 @@
 ## Formulário - Versão Atual
 <p> • Ajustando Abas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/161396974-5b3e456e-0fdd-488e-b91c-0736d2645b04.png)
-
+![image](https://user-images.githubusercontent.com/66530386/161397722-3a01e4bc-7206-4325-9dbb-0b359aac2d5f.png)
 
 
 
