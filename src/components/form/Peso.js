@@ -4,8 +4,7 @@ function Peso () {
             type="number" 
             className="peso" 
             placeholder="Peso" 
-            step={0.1} 
-            maxLength={7} 
+            maxLength={6} 
         />
     )
 }

@@ -3,8 +3,8 @@ function Altura () {
         <input 
             type="number" 
             className="altura" 
-            step={0.1} 
             placeholder="Altura"  
+            maxLength={4}
         />
     )
 }

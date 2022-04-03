@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   // import o Switch antes do Router , Switch , Route 
-  //antes do Router - <Switch></Switch>
+  // antes do Router - <Switch></Switch>
   return (
     <Router>
       <Navbar />

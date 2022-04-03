@@ -56,8 +56,8 @@ label {
 .aba-dados {
   all: unset;
   width: 200px;
+  border-radius: 5px 0 0 0;
   padding: 10px 0 10px 15px;
-  border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -66,7 +66,6 @@ label {
   all: unset;
   width: 130px;
   padding: 10px 0 10px 35px;
-  border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -75,7 +74,6 @@ label {
   all: unset;
   width: 150px;
   padding: 10px 0 10px 45px;
-  border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -84,7 +82,6 @@ label {
   all: unset;
   width: 150px;
   padding: 10px 0 10px 54px;
-  border-radius: 5px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -191,16 +188,6 @@ label {
   width: 130px
 }
 
-.olhos {
-  all: unset;
-  padding: 10px;
-  border-radius: 5px;
-  background: #161f27;
-  width: 190px;
-  margin: 0 0 15px 10px;
-  color: #ffffff;
-}
-
 .peso {
   all: unset;
   padding: 10px;
@@ -211,12 +198,20 @@ label {
   color: #ffffff;
 }
 
-/* ----------- para desabilitar as setas do input number
 input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none;
 } 
-*/
+
+.olhos {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background: #161f27;
+  width: 190px;
+  margin: 0 0 15px 10px;
+  color: #ffffff;
+}
 
 .familiares {
   width: 100%; 
