@@ -16,6 +16,7 @@ const NascMascara = ({value, onChange}) =>  {
         <>
             <InputMask 
                 mask="99/99/9999" 
+                maskChar=""
                 className="nascimento" 
                 placeholder="Data de Nascimento" 
                 value={value} 

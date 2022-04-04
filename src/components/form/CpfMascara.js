@@ -16,6 +16,7 @@ const CpfMascara = ({value, onChange}) => {
         <>
             <InputMask 
                 mask="999.999.999-99" 
+                maskChar=""
                 className="cpf" 
                 placeholder="CPF" 
                 value={value} 

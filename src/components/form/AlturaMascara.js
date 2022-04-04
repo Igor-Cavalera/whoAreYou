@@ -15,7 +15,8 @@ const AlturaMascara = ({value, onChange}) => {
     return (
     <>
         <InputMask 
-            mask="9.99" 
+            mask="9,99 m" 
+            maskChar=""
             className="altura" 
             placeholder="Altura" 
             value={value} 

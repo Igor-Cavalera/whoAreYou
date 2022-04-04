@@ -15,11 +15,11 @@ const PesoMascara = ({value, onChange}) => {
     return (
         <>
             <InputMask 
-            mask="999.99 Kg" 
-            className="peso" 
-            placeholder="Peso" 
-            value={value} 
-            onChange={onChange}/>        
+                mask="999.99 Kg" 
+                className="peso" 
+                placeholder="Peso" 
+                value={value} 
+                onChange={onChange}/>        
         </>
     )
 }
