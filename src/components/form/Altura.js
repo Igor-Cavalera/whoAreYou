@@ -1,11 +1,14 @@
+import {useState} from 'react';
+import AlturaMascara from './AlturaMascara';
+
 function Altura () {
+    const [altura, SetAltura ] = useState('');
     return (
-        <input 
-            type="number" 
-            className="altura" 
-            placeholder="Altura"  
-            maxLength={4}
-        />
+        <>
+            <AlturaMascara 
+                value={altura} 
+                onChange={(event) => SetAltura(event.target.value)}/>
+        </>
     )
 }
 
