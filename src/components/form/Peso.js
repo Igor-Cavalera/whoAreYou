@@ -1,11 +1,10 @@
+import {useState} from 'react';
+import PesoMascara from './PesoMascara';
+
 function Peso () {
+    const [peso, setPeso] = useState('');
     return (
-        <input 
-            type="number" 
-            className="peso" 
-            placeholder="Peso" 
-            maxLength={6} 
-        />
+        <PesoMascara value={peso} onChange={(event) => setPeso(event.target.value)}/>
     )
 }
 
