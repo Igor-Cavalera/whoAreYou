@@ -174,7 +174,7 @@ label {
   padding: 10px;
   background: #161f27;
   border-radius: 5px;
-  width: 300px;
+  width: 430px;
   margin: 0 0 15px 0;
   color: #ffffff;
 }
@@ -184,8 +184,8 @@ label {
   padding: 10px;
   background: #161f27;
   border-radius: 5px;
-  margin: 0 0 15px 150px;
-  width: 250px;
+  margin: 0 0 15px 10px;
+  width: 300px;
   color: #ffffff;
 }
 
