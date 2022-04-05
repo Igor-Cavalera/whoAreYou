@@ -6,7 +6,6 @@
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
-<p> • Estilizar inputs de Telefone </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
