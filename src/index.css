@@ -152,12 +152,21 @@ label {
   margin-left: 13px;
 }
 
-.anotacoes, .descricao, .familiares {
+.anotacoes, .descricao, .familiares, .contato {
   font-size: 20px;
   margin-bottom: 0px;
   padding-left: 15px;
   border-radius: 5px 5px 0 0;
   background-color: #0c151c;
+}
+
+.contato {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #0c151c;
+  padding: 5px;
+  padding-left: 15px;
+  margin-bottom: 15px;
 }
 
 .descricao {
