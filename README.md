@@ -5,9 +5,11 @@
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 <p> • Adicionar Label Contato <p>
+<p> • Adicionar componentes Telefone e E-mail no formulário </p>
 
 ## CSS
 <p> • Estilizar inputs de Telefone e E-mail </p>
+<p> • Estilizar label Contato </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
@@ -19,7 +21,6 @@
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar Máscara para E-mail </p>
-<p> • Adicionar Input de Telefone </p>
 <p> • Adicionar Inputs para aba de Endereço </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
