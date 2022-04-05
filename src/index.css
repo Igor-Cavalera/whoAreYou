@@ -179,6 +179,16 @@ label {
   color: #ffffff;
 }
 
+.telefone {
+  all: unset;
+  padding: 10px;
+  background: #161f27;
+  border-radius: 5px;
+  margin: 0 0 15px 150px;
+  width: 250px;
+  color: #ffffff;
+}
+
 .descricao {
   width: 100%;
   border-radius: 5px;
