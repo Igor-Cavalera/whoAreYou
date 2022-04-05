@@ -4,7 +4,6 @@
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
-<p> • Adicionar Label Contato <p>
 <p> • Adicionar componentes Telefone e E-mail no formulário </p>
 
 ## CSS
