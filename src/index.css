@@ -169,6 +169,16 @@ label {
   margin-bottom: 15px;
 }
 
+.email {
+  all: unset;
+  padding: 10px;
+  background: #161f27;
+  border-radius: 5px;
+  width: 300px;
+  margin: 0 0 15px 0;
+  color: #ffffff;
+}
+
 .descricao {
   width: 100%;
   border-radius: 5px;
