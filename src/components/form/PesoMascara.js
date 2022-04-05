@@ -12,6 +12,8 @@ const PesoMascara = ({value, onChange}) => {
         })
     }
 
+
+    // Configurar mask="999.99 kg" 
     return (
         <>
             <InputMask 
