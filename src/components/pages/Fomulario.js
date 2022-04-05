@@ -12,6 +12,7 @@ import BotaoSalvar from '../form/BotaoSalvar';
 import Olhos from '../form/Olhos';
 import Abas from './Abas';
 import Nacionalidade from '../form/Nacionalidade';
+import Email from '../form/Email';
 
 function Formulario() {
 
@@ -42,6 +43,8 @@ function Formulario() {
             <Nacionalidade onChange={ handleInputChange }/>
 
             <label className="contato">Contato </label>
+
+            <Email onChange={ handleInputChange }/>
 
             <label className="descricao">Descrição </label>
 
