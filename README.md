@@ -14,7 +14,7 @@
 
 ## Configuração
 <p> • Configurar Abas </p>
-<p> • Adicionar Máscara para peso </p>
+<p> • Configurar Máscara para peso </p>
 <p> • Adicionar Input de Telefone </p>
 <p> • Adicionar Inputs para aba de Endereço </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
