@@ -7,7 +7,7 @@
 <p> • Adicionar componentes Telefone no formulário </p>
 
 ## CSS
-<p> • Estilizar inputs de Telefone e E-mail </p>
+<p> • Estilizar inputs de Telefone </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
