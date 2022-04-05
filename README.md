@@ -4,11 +4,10 @@
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
-<p> • Adicionar componentes Telefone e E-mail no formulário </p>
+<p> • Adicionar componentes Telefone no formulário </p>
 
 ## CSS
 <p> • Estilizar inputs de Telefone e E-mail </p>
-<p> • Estilizar label Contato </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
