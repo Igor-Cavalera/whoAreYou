@@ -41,6 +41,8 @@ function Formulario() {
             <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
             <Nacionalidade onChange={ handleInputChange }/>
 
+            <label className="contato">Contato </label>
+
             <label className="descricao">Descrição </label>
 
             <Genero onChange={ handleInputChange }/>
