@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Tabs from './tab/Tabs';
 import Nomeprincipal from '../form/NomePrincipal';
 import Cpf from '../form/Cpf';
 import Nasc from '../form/Nasc';
@@ -37,6 +38,7 @@ function Formulario() {
     }
         return (
         <form onSubmit={ handleSubmit }>
+            <Tabs/>
             <Abas/>
             <Nomeprincipal onChange={ handleInputChange } value={formValues.name || ''}/>
             <Cpf onChange={ handleInputChange } value={formValues.Cpf || ''}/>
