@@ -5,7 +5,10 @@ function Telefone () {
     const [ telefone, setTelefone ] = useState('');
     return (
         <>
-            <TelefoneMascara value={telefone} onChange={(event) => setTelefone(event.target.value)}/>
+            <TelefoneMascara 
+                value={telefone} 
+                onChange={(event) => setTelefone(event.target.value)}
+            />
         </>
     )
 }
