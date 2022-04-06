@@ -16,7 +16,6 @@
 <p> • Configurar Abas </p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Configurar Máscara para E-mail </p>
 <p> • Adicionar Inputs para aba de Endereço </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
