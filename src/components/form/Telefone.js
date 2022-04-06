@@ -1,7 +1,11 @@
+import { useState } from 'react';
+import TelefoneMascara from './TelefoneMascara';
+
 function Telefone () {
+    const [ telefone, setTelefone ] = useState('');
     return (
         <>
-            <input type="number" className="telefone" placeholder="Telefone"  />
+            <TelefoneMascara value={telefone} onChange={(event) => setTelefone(event.target.value)}/>
         </>
     )
 }
