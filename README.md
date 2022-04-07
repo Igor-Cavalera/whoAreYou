@@ -9,7 +9,6 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
-<p> • Colocar Anotações em outra aba </p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
