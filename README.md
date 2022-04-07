@@ -9,14 +9,14 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Ajustar ResetCSS </p>
-<p> • Colocar Anotações em outra aba </p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
 <p> • Configurar Tab</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Adicionar Inputs para aba de Endereço </p>
+<p> • Adicionar Inputs para Tab de Endereço </p>
+<p> • Adicionar Inputs para Tab de Empresas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
 
