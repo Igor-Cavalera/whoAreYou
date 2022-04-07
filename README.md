@@ -13,7 +13,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
-<p> • Configurar Abas </p>
+<p> • Configurar Tab</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Adicionar Inputs para aba de Endereço </p>
