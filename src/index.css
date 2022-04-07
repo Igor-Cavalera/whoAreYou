@@ -18,6 +18,13 @@ form {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.tabContent {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 60px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 input, select, textarea {
   margin-bottom: 20px;
   padding: 8px;
@@ -139,17 +146,15 @@ label {
 }
 
 .cpf {
-  width: 25%;
+  
 }
 
 .nascimento {
-  width: 33%;
-  margin-left: 12px;
+ 
 }
 
 .nacionalidade {
-  width: 31%;
-  margin-left: 13px;
+  
 }
 
 .anotacoes, .descricao, .familiares, .contato {
@@ -161,50 +166,34 @@ label {
 }
 
 .contato {
-  width: 100%;
   border-radius: 5px;
   background-color: #0c151c;
-  padding: 5px;
-  padding-left: 15px;
-  margin-bottom: 15px;
 }
 
 .email {
   all: unset;
-  padding: 10px;
   background: #161f27;
   border-radius: 5px;
-  width: 430px;
-  margin: 0 0 15px 0;
+
   color: #ffffff;
 }
 
 .telefone {
   all: unset;
-  padding: 10px;
   background: #161f27;
   border-radius: 5px;
-  margin: 0 0 15px 10px;
-  width: 300px;
   color: #ffffff;
 }
 
 .descricao {
-  width: 100%;
   border-radius: 5px;
   background-color: #0c151c;
-  padding: 5px;
-  padding-left: 15px;
-  margin-bottom: 15px;
 }
 
 .genero, .altura {
   all: unset;
-  padding: 10px;
   background: #161f27;
   border-radius: 5px;
-  width: 200px;
-  margin: 0 0 15px 0;
   color: #ffffff;
 }
 
@@ -213,17 +202,12 @@ label {
 }
 
 .altura {
-  margin-left: 10px;
-  width: 130px
 }
 
 .peso {
   all: unset;
-  padding: 10px;
   border-radius: 5px;
   background: #161f27;
-  width: 150px;
-  margin: 0 0 15px 10px;
   color: #ffffff;
 }
 
@@ -234,51 +218,33 @@ input[type=number]::-webkit-outer-spin-button {
 
 .olhos {
   all: unset;
-  padding: 10px;
   border-radius: 5px;
   background: #161f27;
-  width: 190px;
-  margin: 0 0 15px 10px;
   color: #ffffff;
 }
 
 .familiares {
-  width: 100%; 
   background-color: #0c151c;
-  padding: 5px;
-  padding-left: 15px;
-  
 }
 
 .maeNome , .paiNome {
   all: unset;
-  padding: 10px;
-  border-radius: 5px;
   background-color: #161f27;
-  margin-bottom: 15px;
-  width: 100%;
   color: #ffffff;
 }
 
 .maeNome {
   all: unset;
   background-color: #161f27;
-  width: 100%;
-  margin-bottom: 15px;
-  padding: 10px;
-  border-radius: 0 0 5px 5px;
   color: #ffffff;
 }
 
 .anotacoes {
-  all: unset;
-  width: 100%;    
+  all: unset;   
   background-color: #0c151c;
   border-radius: 5px 5px 0 0 ;
   color: #ffffff;
   font-size: 20px;
-  padding: 5px;
-  padding-left: 15px;
 }
 
 .butaoSalvar {

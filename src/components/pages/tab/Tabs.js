@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './index.css';
 import NomePrincipal from '../../form/NomePrincipal';
 import Cpf from '../../form/Cpf';
 import Nasc from '../../form/Nasc';
