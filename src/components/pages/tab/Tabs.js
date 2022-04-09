@@ -15,7 +15,7 @@ import AreaTexto from '../../form/AreaTexto';
 import BotaoSalvar from '../../form/BotaoSalvar';
 
 
-function Tabs() {
+function Tabs () {
     const [index, setIndex] = useState(0);
     const [formValues, setFormValues] = useState({});
 

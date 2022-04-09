@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import Tabs from './tab/Tabs';
 
 function Formulario() {

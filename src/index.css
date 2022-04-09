@@ -10,14 +10,14 @@ h1 {
 }
 
 form {
-  max-width: 900px;
+  width: 900px;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent {
   max-width: 900px;
-  margin: 0 auto;
-  padding: 60px;
+  margin-left: 250px;
+  margin-top: 40px;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -49,7 +49,15 @@ label {
 
 /* ------------------- ABAS --------------- */ 
 
+.aba {
+  width: 900px;
+  margin-left: 50px;
+}
+
 .abas {
+  width: 100%;
+  margin-left: 250px;
+  margin-top: 40px;
   height: 42px;
   background: #0c151c;
   border-radius: 5px 5px 0 0;
@@ -59,7 +67,7 @@ label {
   all: unset;
   width: 200px;
   border-radius: 5px 0 0 0;
-  padding: 10px 0 10px 15px;
+  padding: 10px 20px 10px 65px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -67,7 +75,7 @@ label {
 .aba-endereco {
   all: unset;
   width: 130px;
-  padding: 10px 0 10px 35px;
+  padding: 10px 20px 10px 50px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -83,7 +91,7 @@ label {
 .aba-empresas {
   all: unset;
   width: 150px;
-  padding: 10px 0 10px 54px;
+  padding: 10px 10px 10px 59px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -115,9 +123,9 @@ label {
 .name {
   all: unset;
   padding: 10px;
+  width: 880px;;
   border-radius: 0 0 5px 5px;
   background: #161f27;
-  width: 100%;
   margin: 0 0 15px 0;
   color: #ffffff;
 }
@@ -136,24 +144,26 @@ label {
   padding: 10px;
   border-radius: 5px;
   background: #161f27;
-  margin: 0 0 15px 0;
+  margin: 0 0 15px 10px;
   color: #ffffff;
 }
 
 .cpf {
-  
+  width: 180px;
 }
 
 .nascimento {
- 
+ width: 150px;
+ margin-left: 10px;
 }
 
 .nacionalidade {
-  
+  width: 250px;
 }
 
 .anotacoes, .descricao, .familiares, .contato {
   font-size: 20px;
+  width: 880px;
   margin-bottom: 0px;
   padding-left: 15px;
   border-radius: 5px 5px 0 0;
@@ -161,6 +171,7 @@ label {
 }
 
 .contato {
+  width: 880px;
   border-radius: 5px;
   background-color: #0c151c;
 }
