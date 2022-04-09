@@ -30,8 +30,9 @@
 
 ![image](https://user-images.githubusercontent.com/66530386/162593680-6de54d33-96ce-4ad0-b5ce-1535108d83c1.png)
 
+<p> • Aba - Anotações </p>
 
-
+![image](https://user-images.githubusercontent.com/66530386/162594598-cc873c8a-6978-415d-9ac0-fbc6313de681.png)
 
 
 ## Rabisco Home 
