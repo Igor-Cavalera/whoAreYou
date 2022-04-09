@@ -15,9 +15,8 @@ form {
 }
 
 .tabContent {
-  max-width: 900px;
+  width: 900px;
   margin-left: 250px;
-  margin-top: 40px;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -126,7 +125,7 @@ label {
   width: 880px;;
   border-radius: 0 0 5px 5px;
   background: #161f27;
-  margin: 0 0 15px 0;
+  margin: 0 0 10px 0;
   color: #ffffff;
 }
 
@@ -135,7 +134,7 @@ label {
   padding: 10px;
   border-radius: 5px;
   background: #161f27;
-  margin: 0 0 15px 0;
+  margin: 0 0 20px 0;
   color: #ffffff;
 }
 
@@ -149,21 +148,22 @@ label {
 }
 
 .cpf {
-  width: 180px;
+  width: 220px;
 }
 
 .nascimento {
- width: 150px;
+ width: 300px;
  margin-left: 10px;
 }
 
 .nacionalidade {
-  width: 250px;
+  width: 300px;
 }
 
 .anotacoes, .descricao, .familiares, .contato {
   font-size: 20px;
-  width: 880px;
+  width: 900px;
+  padding: 10px;
   margin-bottom: 0px;
   padding-left: 15px;
   border-radius: 5px 5px 0 0;
@@ -171,8 +171,9 @@ label {
 }
 
 .contato {
-  width: 880px;
   border-radius: 5px;
+  padding-right: 801px;
+  margin-bottom: 10px;
   background-color: #0c151c;
 }
 
@@ -180,20 +181,29 @@ label {
   all: unset;
   background: #161f27;
   border-radius: 5px;
-
+  width: 500px;
+  border-radius: 5px;
+  padding: 10px;
   color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .telefone {
   all: unset;
   background: #161f27;
+  width: 350px;
   border-radius: 5px;
+  padding: 10px;
+  margin-left: 10px;
   color: #ffffff;
 }
 
 .descricao {
   border-radius: 5px;
   background-color: #0c151c;
+  padding-right: 777px;
+  margin: 30px 0;
 }
 
 .genero, .altura {
@@ -201,19 +211,30 @@ label {
   background: #161f27;
   border-radius: 5px;
   color: #ffffff;
+  margin-top: 20px;
 }
 
 .genero {
   overflow: hidden;
+  padding: 10px;
+  width: 200px;
+  margin-bottom: 20px;
 }
 
 .altura {
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  width: 100px;
 }
 
 .peso {
   all: unset;
   border-radius: 5px;
   background: #161f27;
+  width: 200px;
+  padding: 10px;
+  margin-left: 10px;
   color: #ffffff;
 }
 
@@ -224,6 +245,9 @@ input[type=number]::-webkit-outer-spin-button {
 
 .olhos {
   all: unset;
+  width: 290px;
+  padding: 10px;
+  margin-left: 10px;
   border-radius: 5px;
   background: #161f27;
   color: #ffffff;
@@ -231,16 +255,25 @@ input[type=number]::-webkit-outer-spin-button {
 
 .familiares {
   background-color: #0c151c;
+  padding-right: 765px;
 }
 
 .maeNome , .paiNome {
   all: unset;
+  width: 880px;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
   background-color: #161f27;
   color: #ffffff;
 }
 
 .maeNome {
   all: unset;
+  width: 880px;
+  padding: 10px;
+  margin-top: 11px;
+  border-radius: 0 0 5px 5px ;
   background-color: #161f27;
   color: #ffffff;
 }
