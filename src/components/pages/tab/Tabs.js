@@ -82,7 +82,7 @@ function Tabs () {
                     <Bairro onChange={ handleInputChange }/>
                     <Cidade onChange={ handleInputChange }/>
                     <EstadoUf onChange={ handleInputChange }/>
-                    <Cep/>
+                    <Cep onChange={ handleInputChange }/>
                 </div>
                 <div className="tabContent-notas" hidden={index != 2}>
                     <label className="anotacoes">Anotações </label>
