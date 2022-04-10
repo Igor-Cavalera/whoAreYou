@@ -48,7 +48,7 @@ function Tabs () {
                 </div>
 
                 <form onSubmit={ handleSubmit }>
-                <div className="tabContent" hidden={index != 0}>
+                <div className="tabContent-dados" hidden={index != 0}>
                     <NomePrincipal onChange={ handleInputChange } value={formValues.name || ''}/>
                     <Cpf onChange={ handleInputChange } value={formValues.Cpf || ''}/>
                     <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
@@ -72,7 +72,7 @@ function Tabs () {
                     <NomeP onChange={ handleInputChange } />
                 </div>
                 </form>
-                <div className="tabContent" hidden={index != 1}>
+                <div className="tabContent-endereco" hidden={index != 1}>
                     BLABLABLA 2
                 </div>
                 <div className="tabContent-notas" hidden={index != 2}>
@@ -81,7 +81,7 @@ function Tabs () {
                     <AreaTexto/>
                     <BotaoSalvar/>
                 </div>
-                <div className="tabContent" hidden={index != 3}>
+                <div className="tabContent-empresas" hidden={index != 3}>
                     BLABLABLA 4
                 </div>
             </div>
