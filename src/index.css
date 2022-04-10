@@ -20,6 +20,13 @@ form {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.tabContent-notas {
+  width: 900px;
+  margin-left: 250px;
+  margin-top: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 input, select, textarea {
   margin-bottom: 20px;
   padding: 8px;
@@ -32,18 +39,6 @@ input, select, textarea {
 
 label {
   color: #ffffff;
-}
-
-.anotacoes_textArea {
-  all: unset;
-  resize: none;
-  border-radius: 0 0 5px 5px;
-  color: #ffffff;
-  padding: 15px;
-  background: #161f27;
-  width: 100%;
-  height: 250px;
-  margin-bottom: 15px;
 }
 
 /* ------------------- ABAS --------------- */ 
@@ -160,7 +155,7 @@ label {
   width: 300px;
 }
 
-.anotacoes, .descricao, .familiares, .contato {
+.descricao, .familiares, .contato {
   font-size: 20px;
   width: 900px;
   padding: 10px;
@@ -280,16 +275,32 @@ input[type=number]::-webkit-outer-spin-button {
 
 .anotacoes {
   all: unset;   
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 777px;
   background-color: #0c151c;
   border-radius: 5px 5px 0 0 ;
   color: #ffffff;
   font-size: 20px;
 }
 
+.anotacoes_textArea {
+  all: unset;
+  resize: none;
+  border-radius: 0 0 5px 5px;
+  color: #ffffff;
+  padding: 15px;
+  background: #161f27;
+  width: 870px;
+  height: 350px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
 .butaoSalvar {
   all: unset;
   text-align: center;
-  width: 100%;
+  width: 880px;
   margin: 0 0 15px 0;
   font-family: 'Courier New', Courier, monospace;
   background: #0c151c;

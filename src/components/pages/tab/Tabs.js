@@ -75,7 +75,7 @@ function Tabs () {
                 <div className="tabContent" hidden={index != 1}>
                     BLABLABLA 2
                 </div>
-                <div className="tabContent" hidden={index != 2}>
+                <div className="tabContent-notas" hidden={index != 2}>
                     <label className="anotacoes">Anotações </label>
 
                     <AreaTexto/>
