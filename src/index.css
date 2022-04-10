@@ -281,6 +281,8 @@ input[type=number]::-webkit-outer-spin-button {
 
 .logradouro {
   all: unset;
+  width: 600px;
+  margin: 10px 10px 10px 0 ;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
@@ -289,6 +291,7 @@ input[type=number]::-webkit-outer-spin-button {
 
 .bairro {
   all: unset;
+  width: 250px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
@@ -297,6 +300,8 @@ input[type=number]::-webkit-outer-spin-button {
 
 .cidade {
   all: unset;
+  width: 250px;
+  margin-right: 10px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
@@ -305,6 +310,8 @@ input[type=number]::-webkit-outer-spin-button {
 
 .estadoUf {
   all: unset;
+  width: 100px;
+  margin-right: 10px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
@@ -313,6 +320,7 @@ input[type=number]::-webkit-outer-spin-button {
 
 .cep {
   all: unset;
+  width: 200px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
