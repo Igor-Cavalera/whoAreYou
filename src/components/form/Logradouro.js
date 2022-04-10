@@ -1,6 +1,6 @@
 function Logradouro() {
     return (
-        <input type="text" className="Logradouro" placeholder="Logradouro" />
+        <input type="text" className="logradouro" placeholder="Logradouro" />
     )
 }
 

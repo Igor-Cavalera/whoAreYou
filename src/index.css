@@ -20,6 +20,12 @@ form {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.tabContent-endereco {
+  width: 900px;
+  margin-left: 250px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .tabContent-notas {
   width: 900px;
   margin-left: 250px;
@@ -269,6 +275,46 @@ input[type=number]::-webkit-outer-spin-button {
   padding: 10px;
   margin-top: 11px;
   border-radius: 0 0 5px 5px ;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.logradouro {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.bairro {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.cidade {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.estadoUf {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.cep {
+  all: unset;
+  padding: 10px;
+  border-radius: 5px;
   background-color: #161f27;
   color: #ffffff;
 }
