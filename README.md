@@ -16,7 +16,6 @@
 <p> • Configurar Tab</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Adicionar Inputs para Tab de Endereço </p>
 <p> • Adicionar Inputs para Tab de Empresas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
