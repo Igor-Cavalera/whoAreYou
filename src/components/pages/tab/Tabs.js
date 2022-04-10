@@ -13,6 +13,11 @@ import NomeM from '../../form/NomeM';
 import NomeP from '../../form/NomeP'; 
 import AreaTexto from '../../form/AreaTexto';
 import BotaoSalvar from '../../form/BotaoSalvar';
+import Logradouro from '../../form/Logradouro';
+import Bairro from '../../form/Bairro';
+import Cidade from '../../form/Cidade';
+import EstadoUf from '../../form/EstadoUf';
+import Cep from '../../form/Cep';
 
 
 function Tabs () {
@@ -73,7 +78,11 @@ function Tabs () {
                 </div>
                 </form>
                 <div className="tabContent-endereco" hidden={index != 1}>
-                    BLABLABLA 2
+                    <Logradouro onChange={ handleInputChange }/>
+                    <Bairro onChange={ handleInputChange }/>
+                    <Cidade onChange={ handleInputChange }/>
+                    <EstadoUf onChange={ handleInputChange }/>
+                    <Cep/>
                 </div>
                 <div className="tabContent-notas" hidden={index != 2}>
                     <label className="anotacoes">Anotações </label>
