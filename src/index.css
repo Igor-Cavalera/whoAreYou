@@ -289,6 +289,14 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
 }
 
+.numeroEnd {
+  all: unset;
+  padding: 10px;
+  background-color: #161f27;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
 .bairro {
   all: unset;
   width: 250px;
