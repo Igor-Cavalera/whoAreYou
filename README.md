@@ -16,7 +16,6 @@
 <p> • Configurar Tab</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Adicionar Máscara CEP </p>
-<p> • Adicionar Input Número em Endereço </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Adicionar Inputs para Tab de Empresas </p>
 <p> • Mudar ordem da aba Anotações com Empresas </p>
