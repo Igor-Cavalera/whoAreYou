@@ -18,6 +18,7 @@ import Bairro from '../../form/Bairro';
 import Cidade from '../../form/Cidade';
 import EstadoUf from '../../form/EstadoUf';
 import Cep from '../../form/Cep';
+import NumeroEnd from '../../form/NumeroEnd';
 
 
 function Tabs () {
@@ -79,6 +80,7 @@ function Tabs () {
                 </form>
                 <div className="tabContent-endereco" hidden={index != 1}>
                     <Logradouro onChange={ handleInputChange }/>
+                    <NumeroEnd onChange={ handleInputChange }/>
                     <Bairro onChange={ handleInputChange }/>
                     <Cidade onChange={ handleInputChange }/>
                     <EstadoUf onChange={ handleInputChange }/>
