@@ -13,12 +13,10 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
-<p> • Configurar Tab</p>
 <p> • Configurar Máscara para peso </p>
-<p> • Adicionar Máscara CEP </p>
-<p> • Adicionar Input Número em Endereço </p>
+<p> • Configurar Máscara CEP </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Adicionar Inputs para Tab de Empresas </p>
+<p> • Adicionar Inputs para Aba de Empresas </p>
 <p> • Mudar ordem da aba Anotações com Empresas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
@@ -34,7 +32,7 @@
 
 <p> • Aba - Endereço </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162636850-aab0aa9e-8108-410e-8777-5359ba6300dd.png)
+![image](https://user-images.githubusercontent.com/66530386/162791756-8c90f955-0c9e-4a74-a312-d7902b7a735e.png)
 
 
 <p> • Aba - Anotações </p>
