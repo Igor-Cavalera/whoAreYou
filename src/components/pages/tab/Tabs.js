@@ -45,11 +45,11 @@ function Tabs () {
                     <button className="aba-endereco" onClick={() => {setIndex(1)}}>
                         Endereço
                     </button>
-                    <button className="aba-notas" onClick={() => {setIndex(2)}}>
-                        Anotações
-                    </button>
-                    <button className="aba-empresas" onClick={() => {setIndex(3)}}>
+                    <button className="aba-empresas" onClick={() => {setIndex(2)}}>
                         Empresas
+                    </button>
+                    <button className="aba-notas" onClick={() => {setIndex(3)}}>
+                        Anotações
                     </button>
                 </div>
 
@@ -86,14 +86,13 @@ function Tabs () {
                     <EstadoUf onChange={ handleInputChange }/>
                     <Cep onChange={ handleInputChange }/>
                 </div>
-                <div className="tabContent-notas" hidden={index != 2}>
+                <div className="tabContent-empresas" hidden={index != 2}>
+                    BLABLABLA              
+                </div>
+                <div className="tabContent-notas" hidden={index != 3}>
                     <label className="anotacoes">Anotações </label>
-
                     <AreaTexto/>
                     <BotaoSalvar/>
-                </div>
-                <div className="tabContent-empresas" hidden={index != 3}>
-                    BLABLABLA 4
                 </div>
             </div>
         </>
