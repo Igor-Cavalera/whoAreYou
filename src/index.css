@@ -336,6 +336,33 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
 }
 
+.nomeFantasia {
+  all: unset;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.razaoSocial {
+  all: unset;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
+.cnpj {
+  all: unset;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #161f27;
+  color: #ffffff;
+}
+
 .anotacoes {
   all: unset;   
   padding: 10px;
