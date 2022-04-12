@@ -13,6 +13,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Configurar Máscara para CNPJ </p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara CEP </p>
 <p> • Configurar Máscara para Telefone </p>
