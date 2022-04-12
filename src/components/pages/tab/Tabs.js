@@ -19,6 +19,9 @@ import Cidade from '../../form/Cidade';
 import EstadoUf from '../../form/EstadoUf';
 import Cep from '../../form/Cep';
 import NumeroEnd from '../../form/NumeroEnd';
+import RazaoSocial from '../../form/RazaoSocial';
+import NomeFantasia from '../../form/NomeFantasia';
+import Cnpj from '../../form/Cnpj';
 
 
 function Tabs () {
@@ -87,7 +90,9 @@ function Tabs () {
                     <Cep onChange={ handleInputChange }/>
                 </div>
                 <div className="tabContent-empresas" hidden={index != 2}>
-                    BLABLABLA              
+                    <RazaoSocial onChange={ handleInputChange }/>
+                    <NomeFantasia onChange={ handleInputChange }/>   
+                    <Cnpj onChange={ handleInputChange }/>      
                 </div>
                 <div className="tabContent-notas" hidden={index != 3}>
                     <label className="anotacoes">Anotações </label>
