@@ -17,8 +17,6 @@
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara CEP </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Adicionar Inputs para Aba de Empresas </p>
-<p> • Mudar ordem da aba Anotações com Empresas </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
 
