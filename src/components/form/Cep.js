@@ -1,6 +1,14 @@
+import {useState} from 'react';
+import CepMascara from './CepMascara';
+
 function Cep () {
+    const [cep, setCep] = useState('');
     return (
-        <input type="number" className="cep" placeholder="CEP" />
+        <>
+            <CepMascara 
+                value={cep} 
+                onChange={(event) => setCep(event.target.value)}/>
+        </>
     )
 }
 
