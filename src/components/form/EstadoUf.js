@@ -1,6 +1,6 @@
 function EstadoUf () {
     return (
-        <input type="text" className="estadoUf" placeholder="UF" />
+        <input type="text" maxLength={2} className="estadoUf" placeholder="UF" />
     )
 }
 
