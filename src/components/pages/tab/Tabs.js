@@ -90,8 +90,8 @@ function Tabs () {
                     <Cep onChange={ handleInputChange }/>
                 </div>
                 <div className="tabContent-empresas" hidden={index != 2}>
-                    <RazaoSocial onChange={ handleInputChange }/>
                     <NomeFantasia onChange={ handleInputChange }/>   
+                    <RazaoSocial onChange={ handleInputChange }/>
                     <Cnpj onChange={ handleInputChange }/>      
                 </div>
                 <div className="tabContent-notas" hidden={index != 3}>

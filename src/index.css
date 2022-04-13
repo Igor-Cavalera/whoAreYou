@@ -26,6 +26,12 @@ form {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.tabContent-empresas {
+  width: 900px;
+  margin-left: 250px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .tabContent-notas {
   width: 900px;
   margin-left: 250px;
@@ -118,7 +124,7 @@ label {
   cursor: pointer;
 }
 
-/* -------------- Inputs ---------------*/ 
+/* -------------- ABA DADOS PESSOAIS ---------------*/ 
 
 .name {
   all: unset;
@@ -279,6 +285,8 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
 }
 
+/* ---------------------- ABA ENDEREÇO -------------------- */ 
+
 .logradouro {
   all: unset;
   width: 655px;
@@ -336,9 +344,12 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
 }
 
+/* -------------- ABA EMPRESAS -------------------- */ 
+
 .nomeFantasia {
   all: unset;
-  width: 300px;
+  width: 400px;
+  margin-top: 10px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
@@ -347,8 +358,10 @@ input[type=number]::-webkit-outer-spin-button {
 
 .razaoSocial {
   all: unset;
-  width: 300px;
+  width: 220px;
   padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   border-radius: 5px;
   background-color: #161f27;
   color: #ffffff;
@@ -356,12 +369,14 @@ input[type=number]::-webkit-outer-spin-button {
 
 .cnpj {
   all: unset;
-  width: 300px;
+  width: 200px;
   padding: 10px;
   border-radius: 5px;
   background-color: #161f27;
   color: #ffffff;
 }
+
+/* -------------- ABA ANOTAÇÕES ---------------- */ 
 
 .anotacoes {
   all: unset;   
