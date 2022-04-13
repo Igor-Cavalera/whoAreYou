@@ -1,6 +1,15 @@
+import {useState} from 'react';
+import CnpjMascara from './CnpjMascara';
+
 function Cnpj () {
+    const [cnpj, setCnpj] = useState('');
     return (
-        <input type="number" className="cnpj" placeholder="CNPJ" />
+        <>
+            <CnpjMascara 
+                value={cnpj} 
+                onChange={(event) => setCnpj(event.target.value)}
+            />
+        </>
     )
 }
 
