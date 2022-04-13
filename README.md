@@ -15,7 +15,6 @@
 ## Configuração
 <p> • Configurar Máscara para CNPJ </p>
 <p> • Configurar Máscara para peso </p>
-<p> • Configurar Máscara CEP </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
