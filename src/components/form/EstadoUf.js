@@ -1,6 +1,10 @@
 function EstadoUf () {
     return (
-        <input type="text" maxLength={2} className="estadoUf" placeholder="UF" />
+        <>
+            <select name="uf" id="uf" className="estadoUf">
+                <option value="0">Estado</option>
+            </select>
+        </>
     )
 }
 
