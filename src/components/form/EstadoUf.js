@@ -18,7 +18,7 @@ function EstadoUf () {
                 <option value="0">UF</option>
                 {ufs.map(uf => (
                     <option key={uf.id} value={uf.id}>
-                        {uf.nome}
+                        {uf.sigla}
                     </option>
                 ))}
             </select>
