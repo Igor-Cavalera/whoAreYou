@@ -1,6 +1,10 @@
 function Cidade () {
     return (
-        <input type="text" className="cidade" placeholder="Cidade" />
+        <>
+            <select name="cidade" id="cidade" className="cidade">
+                <option value="0">Cidade</option>
+            </select>
+        </>
     )
 }
 
