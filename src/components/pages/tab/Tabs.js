@@ -85,8 +85,8 @@ function Tabs () {
                     <Logradouro onChange={ handleInputChange }/>
                     <NumeroEnd onChange={ handleInputChange }/>
                     <Bairro onChange={ handleInputChange }/>
-                    <Cidade onChange={ handleInputChange }/>
                     <EstadoUf onChange={ handleInputChange }/>
+                    <Cidade onChange={ handleInputChange }/>
                     <Cep onChange={ handleInputChange }/>
                 </div>
                 <div className="tabContent-empresas" hidden={index != 2}>
