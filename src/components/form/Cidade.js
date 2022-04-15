@@ -1,10 +1,8 @@
-import {useEffect, useState} from "react"
+import { useEffect, useState } from "react";
 import axios from "axios";
-import EstadoUf from "./EstadoUf";
 
 function Cidade () {
 
-    <EstadoUf/>
     const [cities, setCities] = useState([]);
     const [selectedUf, setSelectedUf] = useState("0");
 
@@ -15,8 +13,8 @@ function Cidade () {
             setCities(response.data)
         })
     },[selectedUf])
-
-    function handleSelectedUf (event: ChangeEvent<HTMLSelectElement>) {
+    
+    function handleSelectedUf (event) {
         const uf = event.target.value
         setSelectedUf(uf)
     }
