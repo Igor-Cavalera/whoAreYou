@@ -73,7 +73,7 @@ label {
   all: unset;
   width: 200px;
   border-radius: 5px 0 0 0;
-  padding: 10px 20px 10px 65px;
+  padding: 10px 20px 10px 50px;
   color: #ffffff;
   font-size: 20px;
 }
@@ -86,18 +86,19 @@ label {
   font-size: 20px;
 }
 
-.aba-notas {
+.aba-empresas {
   all: unset;
   width: 150px;
-  padding: 10px 0 10px 45px;
+  padding: 10px 10px 10px 60px;
   color: #ffffff;
   font-size: 20px;
 }
 
-.aba-empresas {
+.aba-notas {
   all: unset;
   width: 150px;
-  padding: 10px 10px 10px 59px;
+  border-radius: 0 5px 0 0;
+  padding: 10px 5px 10px 55px;
   color: #ffffff;
   font-size: 20px;
 }
