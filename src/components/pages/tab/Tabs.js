@@ -1,11 +1,9 @@
 import { useState } from 'react';
 import AreaTexto from '../../form/AreaTexto';
 import BotaoSalvar from '../../form/BotaoSalvar';
-import RazaoSocial from '../../form/RazaoSocial';
-import NomeFantasia from '../../form/NomeFantasia';
-import Cnpj from '../../form/Cnpj';
 import TabContentDados from '../../form/tabContent/TabContentDados';
 import TabContentEndereco from '../../form/tabContent/TabContentEndereco';
+import TabContentEmpresas from '../../form/tabContent/TabContentEmpresas';
 
 
 function Tabs () {
@@ -49,9 +47,7 @@ function Tabs () {
                     <TabContentEndereco onChange= { handleInputChange }/>
                 </div>
                 <div className="tabContent-empresas" hidden={index != 2}>
-                    <NomeFantasia onChange={ handleInputChange }/>   
-                    <RazaoSocial onChange={ handleInputChange }/>
-                    <Cnpj onChange={ handleInputChange }/>      
+                    <TabContentEmpresas onChange={ handleInputChange }/>   
                 </div>
                 <div className="tabContent-notas" hidden={index != 3}>
                     <label className="anotacoes">Anotações </label>
