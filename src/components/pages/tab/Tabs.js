@@ -1,16 +1,11 @@
 import { useState } from 'react';
 import AreaTexto from '../../form/AreaTexto';
 import BotaoSalvar from '../../form/BotaoSalvar';
-import Logradouro from '../../form/Logradouro';
-import Bairro from '../../form/Bairro';
-import Cidade from '../../form/Cidade';
-import EstadoUf from '../../form/EstadoUf';
-import Cep from '../../form/Cep';
-import NumeroEnd from '../../form/NumeroEnd';
 import RazaoSocial from '../../form/RazaoSocial';
 import NomeFantasia from '../../form/NomeFantasia';
 import Cnpj from '../../form/Cnpj';
 import TabContentDados from '../../form/tabContent/TabContentDados';
+import TabContentEndereco from '../../form/tabContent/TabContentEndereco';
 
 
 function Tabs () {
@@ -51,12 +46,7 @@ function Tabs () {
                 </div>
                 </form>
                 <div className="tabContent-endereco" hidden={index != 1}>
-                    <Logradouro onChange={ handleInputChange }/>
-                    <NumeroEnd onChange={ handleInputChange }/>
-                    <Bairro onChange={ handleInputChange }/>
-                    <EstadoUf onChange={ handleInputChange }/>
-                    <Cidade onChange={ handleInputChange }/>
-                    <Cep onChange={ handleInputChange }/>
+                    <TabContentEndereco onChange= { handleInputChange }/>
                 </div>
                 <div className="tabContent-empresas" hidden={index != 2}>
                     <NomeFantasia onChange={ handleInputChange }/>   
