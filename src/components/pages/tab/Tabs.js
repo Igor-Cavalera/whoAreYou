@@ -1,16 +1,4 @@
 import { useState } from 'react';
-import NomePrincipal from '../../form/NomePrincipal';
-import Cpf from '../../form/Cpf';
-import Nasc from '../../form/Nasc';
-import Nacionalidade from '../../form/Nacionalidade';
-import Email from '../../form/Email';
-import Telefone from '../../form/Telefone';
-import Genero from '../../form/Genero';
-import Altura from '../../form/Altura';
-import Peso from '../../form/Peso';
-import Olhos from '../../form/Olhos';
-import NomeM from '../../form/NomeM';
-import NomeP from '../../form/NomeP'; 
 import AreaTexto from '../../form/AreaTexto';
 import BotaoSalvar from '../../form/BotaoSalvar';
 import Logradouro from '../../form/Logradouro';
@@ -22,6 +10,7 @@ import NumeroEnd from '../../form/NumeroEnd';
 import RazaoSocial from '../../form/RazaoSocial';
 import NomeFantasia from '../../form/NomeFantasia';
 import Cnpj from '../../form/Cnpj';
+import TabContentDados from '../../form/tabContent/TabContentDados';
 
 
 function Tabs () {
@@ -58,27 +47,7 @@ function Tabs () {
 
                 <form onSubmit={ handleSubmit }>
                 <div className="tabContent-dados" hidden={index != 0}>
-                    <NomePrincipal onChange={ handleInputChange } value={formValues.name || ''}/>
-                    <Cpf onChange={ handleInputChange } value={formValues.Cpf || ''}/>
-                    <Nasc onChange= { handleInputChange } value={formValues.nasc || ''}/>
-                    <Nacionalidade onChange={ handleInputChange }/>
-
-                    <label className="contato">Contato </label>
-
-                    <Email onChange={ handleInputChange }/>
-                    <Telefone onChange={ handleInputChange }/>
-
-                    <label className="descricao">Descrição </label>
-
-                    <Genero onChange={ handleInputChange }/>
-                    <Altura onChange={ handleInputChange }/>
-                    <Peso onChange={ handleInputChange } />
-                    <Olhos onChange={ handleInputChange }/>
-
-                    <label className="familiares">Familiares</label>
-
-                    <NomeM onChange={ handleInputChange } />        
-                    <NomeP onChange={ handleInputChange } />
+                    <TabContentDados onChange={ handleInputChange }/>
                 </div>
                 </form>
                 <div className="tabContent-endereco" hidden={index != 1}>
