@@ -1,6 +1,5 @@
-# Aplicação com formulário - React
-
-## Meta - Aplicação Desktop 
+# Meta - Aplicação Desktop 
+## Dominar o React - Aplicação com formulário
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
@@ -13,6 +12,10 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Encapsular Componentes da Tab DADOS em um único componente </p>
+<p> • Encapsular Componentes da Tab ENDEREÇO em um único componente </p>
+<p> • Encapsular Componentes da Tab EMPRESAS em um único componente </p>
+<p> • Encapsular Componentes da Tab NOTAS em um único componente </p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
