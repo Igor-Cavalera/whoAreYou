@@ -1,6 +1,5 @@
-# Aplicação com formulário - React
-
-## Meta - Aplicação Desktop 
+# Meta - Aplicação Desktop 
+## Dominar o React - Aplicação com formulário
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
