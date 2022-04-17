@@ -5,7 +5,6 @@
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
-<p> • Alterar a paleta de cores </p>
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
@@ -37,7 +36,7 @@
 
 <p> • Aba - Anotações </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162594598-cc873c8a-6978-415d-9ac0-fbc6313de681.png)
+![image](https://user-images.githubusercontent.com/66530386/163727596-c354f6e1-ec15-4d61-beed-0cbdd7be4e1e.png)
 
 ## Rabisco Home 
 <p> Resumo </p>
