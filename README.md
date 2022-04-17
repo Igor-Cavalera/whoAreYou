@@ -5,6 +5,7 @@
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
+<p> • Alterar a paleta de cores </p>
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
@@ -12,7 +13,6 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
-<p> • Encapsular Componentes da Tab NOTAS em um único componente </p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
