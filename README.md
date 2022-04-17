@@ -5,6 +5,7 @@
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
+<p> • Alterar a paleta de cores </p>
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
