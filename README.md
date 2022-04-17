@@ -33,7 +33,7 @@
 
 <p> • Aba - Empresas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162929751-87de0668-d522-49f9-a405-f667936c86c7.png)
+![image](https://user-images.githubusercontent.com/66530386/163727553-86449cc4-48fc-41b7-8f7b-02365234b41f.png)
 
 <p> • Aba - Anotações </p>
 
