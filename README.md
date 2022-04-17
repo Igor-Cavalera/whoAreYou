@@ -41,5 +41,5 @@
 ## Rabisco Home 
 <p> Resumo </p>
 
-![image](https://user-images.githubusercontent.com/66530386/160495287-b1ed68fc-2799-4afe-8409-2d5ced267fca.png)
+![image](https://user-images.githubusercontent.com/66530386/163727717-c054d00d-f958-4f0e-b948-ab7dbd934848.png)
 
