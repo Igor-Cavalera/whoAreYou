@@ -46,7 +46,6 @@ input, select, textarea {
   font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color: #dbdbdb;
-  border-radius: 5px;
 }
 
 label {
@@ -66,13 +65,11 @@ label {
   margin-top: 40px;
   height: 42px;
   background: #0c151c;
-  border-radius: 5px 5px 0 0;
 }
 
 .aba-dados {
   all: unset;
   width: 200px;
-  border-radius: 5px 0 0 0;
   padding: 10px 20px 10px 50px;
   color: #ffffff;
   font-size: 20px;
@@ -97,7 +94,6 @@ label {
 .aba-notas {
   all: unset;
   width: 150px;
-  border-radius: 0 5px 0 0;
   padding: 10px 5px 10px 55px;
   color: #ffffff;
   font-size: 20px;
@@ -131,7 +127,6 @@ label {
   all: unset;
   padding: 10px;
   width: 880px;;
-  border-radius: 0 0 5px 5px;
   background: #161f27;
   margin: 0 0 10px 0;
   color: #ffffff;
@@ -140,7 +135,7 @@ label {
 .cpf, .nascimento { 
   all: unset;
   padding: 10px;
-  border-radius: 5px;
+  
   background: #161f27;
   margin: 0 0 20px 0;
   color: #ffffff;
@@ -149,7 +144,7 @@ label {
 .nacionalidade {
   all: unset;
   padding: 10px;
-  border-radius: 5px;
+  
   background: #161f27;
   margin: 0 0 15px 10px;
   color: #ffffff;
@@ -174,12 +169,11 @@ label {
   padding: 10px;
   margin-bottom: 0px;
   padding-left: 15px;
-  border-radius: 5px 5px 0 0;
   background-color: #0c151c;
 }
 
 .contato {
-  border-radius: 5px;
+  
   padding-right: 801px;
   margin-bottom: 10px;
   background-color: #0c151c;
@@ -188,9 +182,9 @@ label {
 .email {
   all: unset;
   background: #161f27;
-  border-radius: 5px;
+  
   width: 500px;
-  border-radius: 5px;
+  
   padding: 10px;
   color: #ffffff;
   margin-top: 20px;
@@ -201,14 +195,14 @@ label {
   all: unset;
   background: #161f27;
   width: 350px;
-  border-radius: 5px;
+  
   padding: 10px;
   margin-left: 10px;
   color: #ffffff;
 }
 
 .descricao {
-  border-radius: 5px;
+  
   background-color: #0c151c;
   padding-right: 777px;
   margin: 30px 0;
@@ -217,7 +211,7 @@ label {
 .genero, .altura {
   all: unset;
   background: #161f27;
-  border-radius: 5px;
+  
   color: #ffffff;
   margin-top: 20px;
 }
@@ -231,14 +225,14 @@ label {
 
 .altura {
   padding: 10px;
-  border-radius: 5px;
+  
   margin-left: 10px;
   width: 100px;
 }
 
 .peso {
   all: unset;
-  border-radius: 5px;
+  
   background: #161f27;
   width: 200px;
   padding: 10px;
@@ -256,7 +250,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 290px;
   padding: 10px;
   margin-left: 10px;
-  border-radius: 5px;
+  
   background: #161f27;
   color: #ffffff;
 }
@@ -271,7 +265,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 880px;
   padding: 10px;
   margin-top: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -281,7 +275,6 @@ input[type=number]::-webkit-outer-spin-button {
   width: 880px;
   padding: 10px;
   margin-top: 10px;
-  border-radius: 0 0 5px 5px ;
   background-color: #161f27;
   color: #ffffff;
 }
@@ -293,7 +286,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 655px;
   margin: 10px 10px 10px 0 ;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -303,7 +296,7 @@ input[type=number]::-webkit-outer-spin-button {
   padding: 10px;
   background-color: #161f27;
   color: #ffffff;
-  border-radius: 5px;
+  
 }
 
 .bairro {
@@ -311,7 +304,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 240px;
   margin-right: 10px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -321,7 +314,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 250px;
   margin-right: 10px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -331,7 +324,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 100px;
   margin-right: 10px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -340,7 +333,7 @@ input[type=number]::-webkit-outer-spin-button {
   all: unset;
   width: 200px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -352,7 +345,7 @@ input[type=number]::-webkit-outer-spin-button {
   width: 400px;
   margin-top: 10px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -363,7 +356,7 @@ input[type=number]::-webkit-outer-spin-button {
   padding: 10px;
   margin-left: 10px;
   margin-right: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -372,7 +365,7 @@ input[type=number]::-webkit-outer-spin-button {
   all: unset;
   width: 200px;
   padding: 10px;
-  border-radius: 5px;
+  
   background-color: #161f27;
   color: #ffffff;
 }
@@ -385,7 +378,6 @@ input[type=number]::-webkit-outer-spin-button {
   padding-left: 15px;
   padding-right: 777px;
   background-color: #0c151c;
-  border-radius: 5px 5px 0 0 ;
   color: #ffffff;
   font-size: 20px;
 }
@@ -393,7 +385,6 @@ input[type=number]::-webkit-outer-spin-button {
 .anotacoes_textArea {
   all: unset;
   resize: none;
-  border-radius: 0 0 5px 5px;
   color: #ffffff;
   padding: 15px;
   background: #161f27;
@@ -412,7 +403,7 @@ input[type=number]::-webkit-outer-spin-button {
   background: #0c151c;
   color: #ffffff;
   padding: 10px;
-  border-radius: 5px;
+  
   font-size: 20px;
 }
 
