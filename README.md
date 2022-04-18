@@ -5,7 +5,6 @@
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
 ## CSS
-<p> • Alterar a paleta de cores </p>
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
@@ -18,29 +17,25 @@
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
 
-## Versão Padrão 
-
-![image](https://user-images.githubusercontent.com/66530386/159654026-eddaf007-32ff-480f-975d-b1fc0ceff7cf.png)
-
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162593680-6de54d33-96ce-4ad0-b5ce-1535108d83c1.png)
+![image](https://user-images.githubusercontent.com/66530386/163727483-6a9d2ec5-11d1-477f-8f9e-d421c60e36f2.png)
 
 <p> • Aba - Endereço </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162791756-8c90f955-0c9e-4a74-a312-d7902b7a735e.png)
+![image](https://user-images.githubusercontent.com/66530386/163727527-e0ed0f42-8d22-4066-8704-0f565aa571a7.png)
 
 <p> • Aba - Empresas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162929751-87de0668-d522-49f9-a405-f667936c86c7.png)
+![image](https://user-images.githubusercontent.com/66530386/163727553-86449cc4-48fc-41b7-8f7b-02365234b41f.png)
 
 <p> • Aba - Anotações </p>
 
-![image](https://user-images.githubusercontent.com/66530386/162594598-cc873c8a-6978-415d-9ac0-fbc6313de681.png)
+![image](https://user-images.githubusercontent.com/66530386/163727596-c354f6e1-ec15-4d61-beed-0cbdd7be4e1e.png)
 
 ## Rabisco Home 
 <p> Resumo </p>
 
-![image](https://user-images.githubusercontent.com/66530386/160495287-b1ed68fc-2799-4afe-8409-2d5ced267fca.png)
+![image](https://user-images.githubusercontent.com/66530386/163727717-c054d00d-f958-4f0e-b948-ab7dbd934848.png)
 
