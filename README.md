@@ -30,7 +30,8 @@
 
 <p> • Aba - Empresas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/163727553-86449cc4-48fc-41b7-8f7b-02365234b41f.png)
+![image](https://user-images.githubusercontent.com/66530386/163847561-a6ce38ea-411e-4115-b2ec-db5099816dc9.png)
+
 
 <p> • Aba - Anotações </p>
 
