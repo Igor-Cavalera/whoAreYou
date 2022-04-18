@@ -17,10 +17,6 @@
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
 <p> • Configurar o botao de salvar </p>
 
-## Versão Padrão 
-
-![image](https://user-images.githubusercontent.com/66530386/159654026-eddaf007-32ff-480f-975d-b1fc0ceff7cf.png)
-
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
 
