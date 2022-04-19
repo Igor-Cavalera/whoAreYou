@@ -13,6 +13,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Organizar componentes </p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
