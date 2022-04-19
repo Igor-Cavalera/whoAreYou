@@ -1,6 +1,6 @@
-import NomeFantasia from "../NomeFantasia";
-import RazaoSocial from "../RazaoSocial";
-import Cnpj from "../Cnpj";
+import NomeFantasia from "../infos/NomeFantasia";
+import RazaoSocial from "../infos/RazaoSocial";
+import Cnpj from "../infos/Cnpj";
 
 function TabContentEmpresas () {
     return (

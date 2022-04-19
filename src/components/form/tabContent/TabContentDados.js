@@ -1,15 +1,15 @@
-import NomePrincipal from "../NomePrincipal";
-import Cpf from "../Cpf";
-import Nasc from "../Nasc";
-import Nacionalidade from "../Nacionalidade";
-import Email from "../Email";
-import Telefone from "../Telefone";
-import Genero from "../Genero";
-import Altura from "../Altura";
-import Peso from "../Peso";
-import Olhos from "../Olhos";
-import NomeM from "../NomeM";
-import NomeP from "../NomeP";
+import NomePrincipal from "../infos/NomePrincipal";
+import Cpf from "../infos/Cpf";
+import Nasc from "../infos/Nasc";
+import Nacionalidade from "../infos/Nacionalidade";
+import Email from "../infos/Email";
+import Telefone from "../infos/Telefone";
+import Genero from "../infos/Genero";
+import Altura from "../infos/Altura";
+import Peso from "../infos/Peso";
+import NomeM from "../infos/NomeM";
+import Olhos from "../infos/Olhos";
+import NomeP from "../infos/NomeP";
 
 function TabContentDados () {
     return (

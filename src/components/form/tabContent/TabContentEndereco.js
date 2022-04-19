@@ -1,8 +1,8 @@
-import Logradouro from "../Logradouro";
-import NumeroEnd from "../NumeroEnd";
-import Bairro from "../Bairro";
-import LocalidadeEC from "../LocalidadeEC";
-import Cep from "../Cep";
+import Logradouro from "../infos/Logradouro";
+import NumeroEnd from "../infos/NumeroEnd";
+import Bairro from "../infos/Bairro";
+import LocalidadeEC from "../infos/LocalidadeEC";
+import Cep from "../infos/Cep";
 
 function TabContentEndereco () {
     return (

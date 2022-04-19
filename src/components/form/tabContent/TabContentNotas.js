@@ -1,5 +1,5 @@
-import AreaTexto from "../AreaTexto";
-import BotaoSalvar from "../BotaoSalvar";
+import AreaTexto from "../infos/AreaTexto";
+import BotaoSalvar from "../infos/BotaoSalvar";
 
 function TabContentNotas () {
     return (
