@@ -3,7 +3,7 @@ import './App.css';
 import './components/styles/Home.css'
 import Home from './components/pages/Home';
 import Formulario from './components/pages/Fomulario';
-import Navbar from './components/Navbar';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   // import o Switch antes do Router , Switch , Route 
