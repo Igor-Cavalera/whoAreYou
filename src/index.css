@@ -107,22 +107,22 @@ label {
 /* --------- ABAS (Cursor: Pointer) ----------- */ 
 
 .aba-dados:hover {
-  background-color: #040a0f;
+  background-color: #383838;
   cursor: pointer;
 }
 
 .aba-endereco:hover {
-  background-color: #040a0f;
+  background-color: #383838;
   cursor: pointer;
 }
 
 .aba-notas:hover {
-  background-color: #040a0f;
+  background-color: #383838;
   cursor: pointer;
 }
 
 .aba-empresas:hover {
-  background-color: #040a0f;
+  background-color: #383838;
   cursor: pointer;
 }
 
@@ -423,6 +423,6 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .butaoSalvar:hover {
-  background-color: #040a0f;
+  background-color: #383838;
   cursor: pointer;
 }
