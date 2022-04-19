@@ -1,8 +1,7 @@
 import Logradouro from "../Logradouro";
 import NumeroEnd from "../NumeroEnd";
 import Bairro from "../Bairro";
-import EstadoUf from "../EstadoUf";
-import Cidade from "../Cidade";
+import LocalidadeEC from "../LocalidadeEC";
 import Cep from "../Cep";
 
 function TabContentEndereco () {
@@ -11,8 +10,7 @@ function TabContentEndereco () {
             <Logradouro />
             <NumeroEnd />
             <Bairro />
-            <EstadoUf />
-            <Cidade />
+            <LocalidadeEC/>
             <Cep />
         
         </>
