@@ -1,5 +1,6 @@
 # Meta - Aplicação Desktop 
 ## Dominar o React - Aplicação com formulário
+<p> • Adicionar Electron </p>
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
@@ -12,6 +13,7 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
+<p> • Configurar input cidade API IBGE</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
 <p> • Configurar para que os valores dos inputs apareçam no resumo </p>
@@ -20,19 +22,23 @@
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
 
-![image](https://user-images.githubusercontent.com/66530386/163727483-6a9d2ec5-11d1-477f-8f9e-d421c60e36f2.png)
+![image](https://user-images.githubusercontent.com/66530386/163847995-68b26fcb-bfcb-4f87-8213-1a7ca05a9936.png)
+
 
 <p> • Aba - Endereço </p>
 
-![image](https://user-images.githubusercontent.com/66530386/163727527-e0ed0f42-8d22-4066-8704-0f565aa571a7.png)
+![image](https://user-images.githubusercontent.com/66530386/163847004-f28de011-5801-4312-8dab-6f301c09110a.png)
+
 
 <p> • Aba - Empresas </p>
 
-![image](https://user-images.githubusercontent.com/66530386/163727553-86449cc4-48fc-41b7-8f7b-02365234b41f.png)
+![image](https://user-images.githubusercontent.com/66530386/163847561-a6ce38ea-411e-4115-b2ec-db5099816dc9.png)
+
 
 <p> • Aba - Anotações </p>
 
-![image](https://user-images.githubusercontent.com/66530386/163727596-c354f6e1-ec15-4d61-beed-0cbdd7be4e1e.png)
+![image](https://user-images.githubusercontent.com/66530386/163848107-51c7eccb-e197-43d4-a08b-503230b463ad.png)
+
 
 ## Rabisco Home 
 <p> Resumo </p>
