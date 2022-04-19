@@ -1,5 +1,6 @@
 # Meta - Aplicação Desktop 
 ## Dominar o React - Aplicação com formulário
+<p> • Adicionar Electron </p>
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
