@@ -18,7 +18,7 @@ export const SidebarData = [
     },
     {
         title: 'Salvos',
-        path: '/Salvos',
+        path: '/Save',
         icon: <BiIcons.BiSave/>,
         cName: 'nav-text'
     }

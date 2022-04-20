@@ -1,5 +1,7 @@
 function Salvos () {
-    return
+    return (
+        <h1>Test</h1>
+    )
 }
 
 export default Salvos;

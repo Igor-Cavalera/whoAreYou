@@ -4,6 +4,7 @@ import './components/styles/Home.css'
 import Home from './components/pages/Home';
 import Formulario from './components/pages/Fomulario';
 import Navbar from './components/navbar/Navbar';
+import Salvos from './components/pages/Salvos';
 
 function App() {
   // import o Switch antes do Router , Switch , Route 
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" exact element={<Home/>}/>
         <Route path="/Forms" element={<Formulario/>}/>
+        <Route path="/Save" element={<Salvos/>}/>
       </Routes>
     </Router>
   )}
