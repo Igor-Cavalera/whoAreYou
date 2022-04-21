@@ -4,7 +4,6 @@
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
-<p> • Adicionar Titulo da Aplicação na Home </p>
 
 ## CSS
 <p> • Ajustar CSS geral </p>
