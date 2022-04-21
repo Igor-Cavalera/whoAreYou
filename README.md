@@ -4,6 +4,7 @@
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
+<p> • Adicionar Titulo da Aplicação na Home </p>
 
 ## CSS
 <p> • Ajustar CSS geral </p>
@@ -17,6 +18,7 @@
 <p> • Configurar Máscara para Telefone </p>
 <p> • Adicionar botão de salvar nas outras abas </p>
 <p> • Configurar o botão de salvar </p>
+<p> • Configurar aba Salvos</p>
 
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
