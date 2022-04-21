@@ -10,11 +10,15 @@
     font-size: 100px;
     position: relative;
     margin: 0 auto;
+    padding-left: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
 }
 .glitch::after {
     content: attr(data-text);
     position: absolute;
-    left: 10px;
+    left: 5px;
     text-shadow: -1px 0 red;
     top: 0;
     color: antiquewhite;
@@ -27,11 +31,11 @@
 .glitch::before {
     content: attr(data-text);
     position: absolute;
-    left: -10px;
+    left: -4px;
     text-shadow: 1px 0 blue;
     top: 0;
     color: antiquewhite;
-    background-color: #141414;
+    background-color: #0c0c0c;
     overflow: hidden;
     clip: rect(0, 900px, 0, 0);
     animation: animate-glitch 2s infinite linear alternate-reverse;
