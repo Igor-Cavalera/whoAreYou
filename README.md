@@ -15,8 +15,8 @@
 ## Configuração
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Configurar para que os valores dos inputs apareçam no resumo </p>
-<p> • Configurar o botao de salvar </p>
+<p> • Adicionar botão de salvar nas outras abas </p>
+<p> • Configurar o botão de salvar </p>
 
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
