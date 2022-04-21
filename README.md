@@ -39,10 +39,3 @@
 <p> • Aba - Anotações </p>
 
 ![image](https://user-images.githubusercontent.com/66530386/163848107-51c7eccb-e197-43d4-a08b-503230b463ad.png)
-
-
-## Rabisco Home 
-<p> Resumo </p>
-
-![image](https://user-images.githubusercontent.com/66530386/163727717-c054d00d-f958-4f0e-b948-ab7dbd934848.png)
-
