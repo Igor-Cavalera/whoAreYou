@@ -4,6 +4,7 @@
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
+<p> • Adicionar Titulo da Aplicação na Home </p>
 
 ## CSS
 <p> • Ajustar CSS geral </p>
@@ -13,11 +14,11 @@
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
-<p> • Alterar tab Button para Checkbox</p>
 <p> • Configurar Máscara para peso </p>
 <p> • Configurar Máscara para Telefone </p>
-<p> • Configurar para que os valores dos inputs apareçam no resumo </p>
-<p> • Configurar o botao de salvar </p>
+<p> • Adicionar botão de salvar nas outras abas </p>
+<p> • Configurar o botão de salvar </p>
+<p> • Configurar aba Salvos</p>
 
 ## Formulário - Versão Atual
 <p> • Aba - Dados Pessoais </p>
