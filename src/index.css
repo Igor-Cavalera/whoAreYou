@@ -1,5 +1,6 @@
 body {
   max-width: 100vw;
+  max-height: 50vw;
 }
 
 h1 {
@@ -10,30 +11,35 @@ h1 {
 
 form {
   width: 900px;
+  position: absolute;
+  left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent-dados {
   width: 900px;
-  margin-left: 250px;
+  left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent-endereco {
   width: 900px;
-  margin-left: 250px;
+  position: absolute;
+  left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent-empresas {
   width: 900px;
-  margin-left: 250px;
+  position: absolute;
+  left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent-notas {
   width: 900px;
-  margin-left: 250px;
+  position: absolute;
+  left: 15%;
   margin-top: 25px;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -55,12 +61,11 @@ label {
 
 .aba {
   width: 900px;
-  margin-left: 50px;
+  margin-left: 300px;
 }
 
 .abas {
   width: 100%;
-  margin-left: 250px;
   margin-top: 40px;
   height: 42px;
   background: #181818;
