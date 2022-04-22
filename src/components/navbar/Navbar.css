@@ -11,8 +11,10 @@
 }
 
 .menu-bars {
+    margin-top: 7px;
     margin-left: 1rem;
     font-size: 2rem;
+    background: transparent;
 }
 
 .nav-menu {
