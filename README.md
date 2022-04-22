@@ -1,4 +1,7 @@
 # Meta - Aplicação Desktop 
+
+![image](https://user-images.githubusercontent.com/66530386/164744621-db3fd6f6-21ea-48c6-8964-e000ea7368b8.png)
+
 ## Dominar o React - Aplicação com formulário
 
 ## ----- LEMBRETES ------
