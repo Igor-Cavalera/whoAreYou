@@ -1,6 +1,8 @@
 # Meta - Aplicação Desktop 
+
+![image](https://user-images.githubusercontent.com/66530386/164744621-db3fd6f6-21ea-48c6-8964-e000ea7368b8.png)
+
 ## Dominar o React - Aplicação com formulário
-<p> • Adicionar Electron </p>
 
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
@@ -9,7 +11,6 @@
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
-<p> • Ajustar ResetCSS </p>
 <p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
