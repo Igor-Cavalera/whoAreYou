@@ -67,7 +67,7 @@ label {
 .abas {
   width: 100%;
   margin-top: 40px;
-  height: 42px;
+  height: 55px;
   background: #181818;
   border-width: 1px;
   border-style: solid;
@@ -79,34 +79,34 @@ label {
 
 .aba-dados {
   all: unset;
-  width: 200px;
-  padding: 10px 20px 10px 50px;
+  width: 300px;
+  padding: 10px 0px 15px 80px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .aba-endereco {
   all: unset;
-  width: 130px;
-  padding: 10px 20px 10px 50px;
+  width: 150px;
+  padding: 10px 50px 15px 80px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .aba-empresas {
   all: unset;
-  width: 150px;
-  padding: 10px 10px 10px 60px;
+  width: 200px;
+  padding: 10px 10px 15px 80px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .aba-notas {
   all: unset;
-  width: 150px;
-  padding: 10px 5px 10px 55px;
+  width: 220px;
+  padding: 10px 0px 15px 80px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 /* --------- ABAS (Cursor: Pointer) ----------- */ 
