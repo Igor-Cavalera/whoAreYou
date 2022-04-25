@@ -10,13 +10,13 @@ h1 {
 }
 
 form {
-  width: 900px;
+  width: 1250px;
   left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 .tabContent-dados {
-  width: 900px;
+  width: 1250px;
   left: 15%;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -60,7 +60,7 @@ label {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 900px;
+  width: 1250px;
   margin-left: 200px;
 }
 
@@ -135,17 +135,17 @@ label {
 
 .name {
   all: unset;
+  width: 1230px;
+  height: 25px;
   padding: 10px;
-  width: 880px;;
   background: #121212;
-  margin: 0 0 10px 0;
+  margin: 1px 0 10px 0;
   color: #ffffff;
 }
 
 .cpf, .nascimento { 
   all: unset;
   padding: 10px;
-  
   background: #121212;
   margin: 0 0 20px 0;
   color: #ffffff;
@@ -154,23 +154,25 @@ label {
 .nacionalidade {
   all: unset;
   padding: 10px;
-  
   background: #121212;
   margin: 0 0 15px 10px;
   color: #ffffff;
 }
 
 .cpf {
-  width: 220px;
+  width: 350px;
+  height: 25px;
 }
 
 .nascimento {
- width: 300px;
+ width: 400px;
+ height: 25px;
  margin-left: 10px;
 }
 
 .nacionalidade {
-  width: 300px;
+  width: 420px;
+  height: 25px;
 }
 
 .descricao, .familiares, .contato {
@@ -188,8 +190,7 @@ label {
 }
 
 .contato {
-  
-  padding-right: 801px;
+  padding-right: 1151px;
   margin-bottom: 10px;
   background-color: #181818;
 }
@@ -197,9 +198,8 @@ label {
 .email {
   all: unset;
   background: #121212;
-  
-  width: 500px;
-  
+  width: 800px;
+  height: 25px;
   padding: 10px;
   color: #ffffff;
   margin-top: 20px;
@@ -209,24 +209,22 @@ label {
 .telefone {
   all: unset;
   background: #121212;
-  width: 350px;
-  
+  width: 400px;
+  height: 25px;
   padding: 10px;
   margin-left: 10px;
   color: #ffffff;
 }
 
 .descricao {
-  
   background-color: #181818;
-  padding-right: 777px;
+  padding-right: 1127px;
   margin: 30px 0;
 }
 
 .genero, .altura {
   all: unset;
   background: #121212;
-  
   color: #ffffff;
   margin-top: 20px;
 }
@@ -234,22 +232,23 @@ label {
 .genero {
   overflow: hidden;
   padding: 10px;
-  width: 200px;
+  width: 300px;
+  height: 25px;
   margin-bottom: 20px;
 }
 
 .altura {
   padding: 10px;
-  
   margin-left: 10px;
-  width: 100px;
+  width: 200px;
+  height: 25px;
 }
 
 .peso {
   all: unset;
-  
   background: #121212;
-  width: 200px;
+  width: 250px;
+  height: 25px;
   padding: 10px;
   margin-left: 10px;
   color: #ffffff;
@@ -262,32 +261,33 @@ input[type=number]::-webkit-outer-spin-button {
 
 .olhos {
   all: unset;
-  width: 290px;
+  width: 390px;
+  height: 25px;
   padding: 10px;
   margin-left: 10px;
-  
   background: #121212;
   color: #ffffff;
 }
 
 .familiares {
   background-color: #181818;
-  padding-right: 765px;
+  padding-right: 1115px;
 }
 
 .maeNome , .paiNome {
   all: unset;
-  width: 880px;
+  width: 1230px;
+  height: 25px;
   padding: 10px;
   margin-top: 10px;
-  
   background-color: #121212;
   color: #ffffff;
 }
 
 .maeNome {
   all: unset;
-  width: 880px;
+  width: 1230px;
+  height: 25px;
   padding: 10px;
   margin-top: 10px;
   background-color: #121212;
