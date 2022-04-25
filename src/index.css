@@ -35,7 +35,7 @@ form {
 }
 
 .tabContent-notas {
-  width: 900px;
+  width: 1250px;
   left: 15%;
   margin-top: 25px;
   font-family: 'Courier New', Courier, monospace;
@@ -395,7 +395,7 @@ input[type=number]::-webkit-outer-spin-button {
   all: unset;   
   padding: 10px;
   padding-left: 15px;
-  padding-right: 777px;
+  padding-right: 1127px;
   background-color: #181818;
   color: #ffffff;
   font-size: 20px;
@@ -412,8 +412,8 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
   padding: 15px;
   background: #121212;
-  width: 870px;
-  height: 350px;
+  width: 1220px;
+  height: 450px;
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -421,13 +421,13 @@ input[type=number]::-webkit-outer-spin-button {
 .butaoSalvar {
   all: unset;
   text-align: center;
-  width: 880px;
+  width: 1230px;
+  height: 25px;
   margin: 0 0 15px 0;
   font-family: 'Courier New', Courier, monospace;
   background: #181818;
   color: #ffffff;
   padding: 10px;
-  
   font-size: 20px;
 }
 
