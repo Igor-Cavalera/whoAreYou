@@ -12,7 +12,6 @@
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
 <p> • Alterar Icone Sidebar </p>
-<p> • Organizar arquivos CSS na pasta styles </p>
 
 ## Configuração
 <p> • Configurar Máscara para peso </p>
