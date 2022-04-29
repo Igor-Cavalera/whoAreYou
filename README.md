@@ -11,7 +11,6 @@
 <p> • Ajustar CSS geral </p>
 <p> • Ajustar largura da aplicação </p>
 <p> • Ajustar Sidebar </p>
-<p> • Alterar Icone Sidebar </p>
 
 ## Configuração
 <p> • Configurar Máscara para peso </p>
