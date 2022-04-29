@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import * as FaIcons from 'react-icons/fa';
-import * as AiIcons from 'react-icons/ai';
+import * as IoIcons from 'react-icons/io';
 import { Link } from 'react-router-dom';
 import { SidebarData } from './SidebarData';
 import './Navbar.css';
@@ -22,7 +22,7 @@ function Navbar () {
         <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
             <ul className='nav-menu-items' onClick={showSidebar}>
                 <li className="navbar-toggle">
-                    <AiIcons.AiOutlineClose/>
+                    <IoIcons.IoMdArrowRoundBack/>
                 </li>
             {SidebarData.map((item, index) => {
                 return (
