@@ -4,6 +4,8 @@
 
 ## Dominar o React - Aplicação com formulário
 
+``` npm run electron-react ``` 
+
 ## ----- LEMBRETES ------
 <p> Lembrete geral : Definir tamanho da aplicacao na tela </p>
 
